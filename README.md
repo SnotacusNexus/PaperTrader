@@ -1,0 +1,2 @@
+# PaperTrader
+Trading Simulator
